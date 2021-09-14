@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/swaggo/swag"
-	"github.com/swaggo/swag/gen"
+	"github.com/nazoking/swag"
+	"github.com/nazoking/swag/gen"
 	"github.com/urfave/cli/v2"
 )
 
